@@ -1,2 +1,5 @@
+Jupyter Notebook
 pandas
 numpy
+seaborn
+matplotlib
